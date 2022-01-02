@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @fkjkkll
-- 👀 I’m interested in computer vision like object detection
+(｡･∀･)ﾉﾞ嗨ヾ(•ω•`)o
 
 <!---
 fkjkkll/fkjkkll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
